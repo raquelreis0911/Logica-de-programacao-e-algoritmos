@@ -1,8 +1,8 @@
 1. Lógica
 
-É importante entender a lógica da programação porque ela é a mesma independente da linguagem que será utilizada (Java, Phyton, R, etc.).
+É importante entender a lógica da programação porque ela é sempre a mesma, independente da linguagem que será utilizada (Java, Phyton, R, etc.).
 
-A lógica de programação é a forma de desencadear pensamentos para atingir determinado objetivo. 
+A "lógica de programação" é a forma de desencadear o pensamentos para atingir determinado objetivo. 
 
 Os fluxogramas são uma forma muito utilizada para representar visualmente o pensamento lógico. 
 
@@ -21,7 +21,7 @@ Não;
 A luz está acesa?
 Sim: Apaga a luz.
 
-Sequência lógica: conjunto de instruções sequenciais utilizadas para o cumprimento de determinada tarefa. 
+2. Sequência lógica: conjunto de instruções sequenciais utilizadas para o cumprimento de determinada tarefa. 
 
 Problema a ser resolvido
 Passo 1
@@ -30,9 +30,9 @@ Passo 3
 Passo n
 Fim.
 
-O que são instruções lógicas?
+3. O que são instruções lógicas?
 
-Um conjunto de regras os normas definidas para a realização de algo. 
+Um conjunto de regras ou normas definidas para a realização de algo. 
 
 Ou seja, como dizer para o computador, através de um programa ou algoritmo, quais ações devem ser tomadas e como elas devem ser feitas. 
 
@@ -48,7 +48,27 @@ Instrução n
 
 Ou seja, um algoritmo ou programa executa linha a linha de cima para baixo em uma ordem pré-definida pelo programador.
 
-Algoritmo: 
+4. O que é um algoritmo?
+
+É uma sequência finita de passos que levam à execução de uma tarefa.
+
+A partir de um problema, dividimos ele em uma sequência lógica. 
+
+Realizamos instruções lógicas para saber a ordem correta da sequência para a resolução do problema
+
+Algoritmo, portanto, é uma sequência lógica finita.
+
+5. O que é um programa?
+
+Um programa de computador é o algoritmo escrito em uma linguagem de programação compilada para o formato executável.
+
+
+
+
+
+
+
+
 
 
 

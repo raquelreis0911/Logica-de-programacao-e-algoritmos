@@ -2,5 +2,55 @@
 
 É importante entender a lógica da programação porque ela é a mesma independente da linguagem que será utilizada (Java, Phyton, R, etc.).
 
-Os fluxogramas são uma forma muito utilizada para representar visualmente o pensamento lógico. Os retângulos apresentam algum processo ou acontecimento e os losângulos representam a análise que fazemos. Para cada análise só existem duas possibilidades como resultado: sim ou não. Não existe o "talvez" ou "não sabe". Na computação quântica podemos ter as duas possibilidades (emaranhado quântico).
+A lógica de programação é a forma de desencadear pensamentos para atingir determinado objetivo. 
+
+Os fluxogramas são uma forma muito utilizada para representar visualmente o pensamento lógico. 
+
+Os retângulos apresentam algum processo ou acontecimento e os losângulos representam a análise que fazemos. 
+
+Para cada análise só existem duas possibilidades como resultado: sim ou não. Não existe o "talvez" ou "não sabe". 
+
+Contudo, com o desenvolvimento da computação quântica podemos ter as duas possibilidades ao mesmo tempo (emaranhado quântico).
+
+Vamos a um exemplo:
+
+Evento - chegou em casa e entrou na sala;
+Está escuro?
+Sim: Acende a luz;
+Não; 
+A luz está acesa?
+Sim: Apaga a luz.
+
+Sequência lógica: conjunto de instruções sequenciais utilizadas para o cumprimento de determinada tarefa. 
+
+Problema a ser resolvido
+Passo 1
+Passo 2
+Passo 3
+Passo n
+Fim.
+
+O que são instruções lógicas?
+
+Um conjunto de regras os normas definidas para a realização de algo. 
+
+Ou seja, como dizer para o computador, através de um programa ou algoritmo, quais ações devem ser tomadas e como elas devem ser feitas. 
+
+As instruções lógicas são sequências executadas de cima para baixo:
+
+Instrução 1
+Instrução 2
+Instrução 3
+.
+.
+.
+Instrução n
+
+Ou seja, um algoritmo ou programa executa linha a linha de cima para baixo em uma ordem pré-definida pelo programador.
+
+Algoritmo: 
+
+
+
+
 

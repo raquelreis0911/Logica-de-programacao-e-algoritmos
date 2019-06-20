@@ -1,0 +1,6 @@
+1. Lógica
+
+É importante entender a lógica da programação porque ela é a mesma independente da linguagem que será utilizada (Java, Phyton, R, etc.).
+
+Os fluxogramas são uma forma muito utilizada para representar visualmente o pensamento lógico. Os retângulos apresentam algum processo ou acontecimento e os losângulos representam a análise que fazemos. Para cada análise só existem duas possibilidades como resultado: sim ou não. Não existe o "talvez" ou "não sabe". Na computação quântica podemos ter as duas possibilidades (emaranhado quântico).
+

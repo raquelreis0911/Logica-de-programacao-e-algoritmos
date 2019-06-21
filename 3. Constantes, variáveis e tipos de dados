@@ -14,7 +14,7 @@ Cada variável corresponde a uma execução de memória.
 
 Basicamente podemos ter constantes e variáveis de quatro tipos:
 
-Numéricas: utilizadas para armazenamento de números. São classificadas como inteiras ou reais.
+Numéricas: utilizadas para armazenamento de números. São classificadas como inteiros ou reais.
 Exemplos: 3, 8 12.4, 11.89
 
 Caracteres: utilizadas para armazenamento de caracteres literais.

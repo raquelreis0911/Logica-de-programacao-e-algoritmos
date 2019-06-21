@@ -1,0 +1,50 @@
+1. Operações lógicas
+
+Operações lógicas são utilizadas a todo momento nos nossos códigos ou algoritmos. 
+
+Utilizamos sempre que precisamos tomardecisões.
+
+Em um algoritmo ou programa, toda decisão terá sempre como resposta TRUE ou FALSE.
+
+Exemplo
+
+Em um algoritmo imaginário "chupar uma bala", algumas pessoas podem não gostar de bala de cereja. 
+
+Desta forma, temos que fazer com que o algoritmo possa resolver esta questão, conforme:
+
+"Chupar uma bala"
+
+Início
+Pegar a bala
+A bala é de cereja?
+  Se sim, não chupe a bala
+  Se não, continue com o algoritmo
+Retirar o papel
+Chupar a bala
+Jogar o papel fora
+Fim.
+
+2. Estruturas de decisão
+
+Para que nossos algoritmos e programas possam se tornar cada vez mais inteligentes, necessitamos tomar decisões no andamento do algoritmo.
+
+Estas decisões interferem diretamente no andamento do programa.
+
+Trabalhamos com dois tipos de estruturas: 
+1. Estrutura de decisão
+2. Estrutura de repetição
+
+Exemplo de estrutura de decisão
+
+"Assar o pão"
+
+Início
+
+
+
+ 
+ 
+
+
+
+

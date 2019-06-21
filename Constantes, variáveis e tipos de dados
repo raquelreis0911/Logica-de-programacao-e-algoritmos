@@ -1,0 +1,29 @@
+1. O que é uma constante?
+
+É um determinado valor fixo que não se modifica ao longo do tempo durante a execução do programa.
+
+2. O que são variáveis?
+
+Elementos da programação que possuem nome, valor e tipo de dado.
+
+O valor de uma variável pode variar durante a execução do programa.
+
+Cada variável corresponde a uma execução de memória.
+
+3. Tipos de dados
+
+Basicamente podemos ter constantes e variáveis de quatro tipos:
+
+Numéricas: utilizadas para armazenamento de números. São classificadas como inteiras ou reais.
+Exemplos: 3, 8 12.4, 11.89
+
+Caracteres: utilizadas para armazenamento de caracteres literais.
+Exemplos: "Juliana", "verde"
+
+Alfanuméricas: Utilizadas para armazenamento de caracteres e números.
+Podem ser utilizadas para conter somente caracteres ou somente números.
+Mesmo que sejam utilizadas para armazenar dados numéricos não podem ser utilizadas para operações matemáticas.
+Exemplos: "olá123", "1234"
+
+Lógicas: utilizada para armazenamento de dados lógicos que podem ser verdadeiro ou falso.
+

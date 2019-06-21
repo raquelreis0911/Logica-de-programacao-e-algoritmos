@@ -1,0 +1,89 @@
+1. Operadores numéricos
+
+São utilizados para realizar operações aritméticas (adição, subtração, multiplicação, divisão e exponenciação).
+
+Adição +
+Subtração -
+Multiplicação *
+Divisão /
+Exponenciação **
+
+Hierarquia das operações aritméticas
+
+    1. Parênteses
+    2. Exponenciação
+    3. Multiplicação ou divisão (o que vier primeiro)
+    4. Adição ou subtração (o que vier primeiro)
+
+Exemplo
+
+1 + 7 * 2 ** 2 - 1 = 28
+
+3 * (1-2) + 4 * 2 = 5
+
+
+2. Operadores relacionais
+
+Os operadores relacionais são utilizados para comparar valores. Estes operadores retornam valores lógicos: true/false.
+
+        Igual a ==
+   Diferente de !=
+      Maior que >
+      Menor que <
+Maior ou igual a >=
+Menor ou igual a <=
+
+Exemplo
+
+Tendo duas variáveis a = 5 e b = 3, os resultados das expressões seriam:
+
+a == b FALSE
+a != b TRUE
+a > b TRUE
+a < b FALSE
+a >= b TRUE
+a <= b FALSE
+
+3. Operadores lógicos
+
+Os operadores lógicos são utilizados para combinar resultados de expressõs, retornando se o resultado final é true/false.
+
+AND &&  -- Uma expressão AND é verdadeira se todas as condições forem verdadeiras.
+
+OR ||  -- Uma expressão OR é verdadeira se pelo menos uma condição for verdadeira.
+
+NOT ! -- inverte o valor da expressão ou condição, se verdadeira inverte para falsa e vice-versa.
+
+TRUE AND TRUE -- TRUE
+TRUE AND FALSE -- FALSE
+FALSE AND FALSE -- FALSE
+FALSE AND TRUE -- FALSE
+
+TRUE OR TRUE -- TRUE
+TRUE OR FALSE -- TRUE
+FALSE OR FALSE -- FALSE
+FALSE OR TRUE -- TRUE
+
+TRUE NOT -- FALSE
+FALSE NOT -- TRUE
+
+Exemplo
+
+Tendo três variáveis a = 5, b = 8 e c = 1, os resultados das expressões seriam:
+
+a == b AND b > c -- FALSE
+
+a != b OR b < c -- TRUE
+
+a > b NOT -- TRUE
+
+a < b  AND b > c -- TRUE
+
+a >= b OR b == c -- FALSE
+
+a <= b NOT -- FALSE
+
+
+
+
+

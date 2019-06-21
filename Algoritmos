@@ -1,0 +1,91 @@
+1. O que é pseudocódigo?
+
+Chama-se pseudocódigo qualquer forma escrita de algoritmo que não está em uma linguagem de programação.
+
+Serve para expressar o pensamento e a sequência lógica.
+
+Ao ler as instruções do pseudocódigo conseguimos entender qual tarefa será realizada.
+
+Algoritmo Exemplo
+
+Variáveis a, b: números
+Início
+Leia a, b
+Se a > b então
+Escreva a, 'é maior que', b
+Senão
+Se a < b então
+Escreva a, 'é menor que', b
+Senão
+Escreva a 'é igual a', b
+FimSe
+FimSe
+Fim.
+
+2. Regras para a construção de algoritmos
+
+  1. Usar somente um verbo por frase
+  2. Imaginar que você está desenvolvendo um algoritmo para pessoas que não trabalham com informática
+  3. Usar frases curtas e simples
+  4. Ser objetivo
+  5. Procurar usar palavras que não tenhma sentido dúbio
+
+3. Fases de um algoritmo
+
+A gente precisa dividir o problema em três partes fundamentais:
+
+Entrada -> Processamento -> Saída
+
+Entrada: dados de entrada do algoritmo
+
+Processamento: procedimentos utilizados para chegar ao resultado final
+
+Saída: dados já processados
+
+Exemplo 1
+
+Entrada: 1, 2
+Processamento: Soma de 1 e 2
+Saída: Soma = 3
+
+Exemplo 2
+
+Problema: calcular a média final dos alunos da 3ª série. Os alunos realizam 4 provas: P1, P2, P3 e P4.
+
+Onde: 
+
+Média final = (P1 + P2 + P3 + P4)/4
+
+Para criar o algoritmo fazemos três perguntas:
+1. Quais são os dados de entrada? Os dados de entrada são P1, P2, P3 e P4.
+2. Qual será o processamento utilizado? Somar todos os dados de entrada e dividir por 4.
+3. Quais serão os dados de saída? A média final
+
+Algoritmo
+
+Receber a nota da prova 1 (P1) -- entrada
+Receber a nota da prova 2 (P2) -- entrada
+Receber a nota da prova 3 (P3) -- entrada
+Receber a nota da prova 4 (P4) -- entrada
+Somar todas as notas -- processamento
+Dividir o resultado por 4 -- processamento
+Mostrar o resultado da divisão -- saída
+
+Teste de mesa: teste de validação para saber se o algoritm está funcionando.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

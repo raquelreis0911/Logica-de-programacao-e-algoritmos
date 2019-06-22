@@ -2,7 +2,7 @@
 
 Operações lógicas são utilizadas a todo momento nos nossos códigos ou algoritmos. 
 
-Utilizamos sempre que precisamos tomardecisões.
+Utilizamos sempre que precisamos tomar decisões.
 
 Em um algoritmo ou programa, toda decisão terá sempre como resposta TRUE ou FALSE.
 
@@ -34,11 +34,58 @@ Trabalhamos com dois tipos de estruturas:
 1. Estrutura de decisão
 2. Estrutura de repetição
 
-Exemplo de estrutura de decisão
+  1.1 Comandos de decisão
+  
+  A grande maioria dos algoritmos ou programas não tem uma execução de forma sequencial (linha após linha). Em geral, são mais complexos.
+  
+  Utilizamos comandos de decisão como técnicas de programação para conduzir as estruturas de programas que não são sequenciais
+  
+  Com instruções de salto ou desvio pode-se fazer com que o programa proceda de uma maneira ou de outra, de acordo com as decisões lógicas tomadas.
+  
+  As principais estruturas de decisão são:
+  
+  Se... então (if... then): Se a condição for satisfeita (true), então faça isso. 
+      A estrutura de decisão if... then normalmente vem acompanhada de um comando que será executado se determinada condição for satisfeita.
+      Exemplo
+      Início
+      Receber o valor da média
+      If média >= 5.0 then
+      Escreva 'Aluno aprovado'.
+      Fim.
+      
+  Se... então/Senão (if... then/else)
+  Funcionando da mesma forma que o if... then, a estrutura if... then/else possui apenas a diferença que é possível executar
+  comandos tanto se a condição for verdadeira, quanto falsa.
+      Exemplo
+      Início
+      Receber o valor da média
+      If média >= 5.0 then
+      Escreva 'Aluno aprovado' 
+      Else
+      Escreva 'Aluno reprovado'
+      Fim.
+  
+  Selecione... caso (switch... case)
+  Esta estrutura é utilizada para executar o comando de acordo com o valor verificado.
+      Exemplo
+      Inteiro: operação = 3
+      
+      Case operação switch
+          Case 1
+            Escreva 'Selecionou 1'
+            Saia
+          Case 2
+            Escreva 'Selecionou 2'
+            Saia
+          Case 3
+            Escreva 'Selecionou 3'
+            Saia
+          Padrão
+            Escreva 'Nenhuma opção selecionada'
+            Saia
+      Fim seleção.
 
-"Assar o pão"
 
-Início
 
 
 

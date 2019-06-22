@@ -69,7 +69,6 @@ Trabalhamos com dois tipos de estruturas:
   Esta estrutura é utilizada para executar o comando de acordo com o valor verificado.
       Exemplo
       Inteiro: operação = 3
-      
       Case operação switch
           Case 1
             Escreva 'Selecionou 1'
@@ -91,7 +90,6 @@ Trabalhamos com dois tipos de estruturas:
   O teste da condição sempre realizado antes de qualquer operação.
   Exemplo
   inteiro: contador = 0
-  
   While contador <= 10, processar
     escrever 'O contador vale', contador
     contador = contador + 1
@@ -100,7 +98,6 @@ Trabalhamos com dois tipos de estruturas:
   Até que algo... Processar: O bloco de operações será executado até que a condição 'algo' seja verdadeira.
   Exemplo
   inteiro: numero = 0
-  
   Até que numero = 10, processar
     escrever 'o número agora vale', numero
     numero = numero + 1
@@ -110,7 +107,6 @@ Trabalhamos com dois tipos de estruturas:
   Caso a condição seja verdadeira, o bloco é executado novamente e caso seja falso o bloco é encerrado.
   Exemplo
   inteiro: numero = 1
-  
   Processar
     escrever 'O número vale', numero
     numero = numero + 1

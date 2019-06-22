@@ -1,0 +1,31 @@
+1. O que são variáveis compostas?
+
+São variáveis que aceitam mais de um valor na mesma variável.
+
+2. Vetores
+
+Também conhecidos como arrays unidimensionais, os vetores são uma estrutura de dados utilizada na programação de sistemas.
+
+Vetores são variáveis que conseguimos guardar uma quantidade fixa de valores do mesmo tipo.
+
+Declarando vetores: 
+
+tipo: nome [tamanho]
+
+Os vetores são estruturas de dados indexadas, iniciando na maioria ds casos em 0 e indo até n-1.
+Exemplo
+inteiro: numeros [10] => [0, 1º, 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º]
+
+Lendo ou colocando valores nos vetores:
+inteiro: numeros [10]
+numeros [0] = 34 => posição 0
+numeros [1] = 12 => posição 1
+.
+.
+.
+numeros [9] = 22 => posição 10
+
+
+
+
+

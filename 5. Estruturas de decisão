@@ -85,7 +85,64 @@ Trabalhamos com dois tipos de estruturas:
             Saia
       Fim seleção.
 
-
+  1.2 Comandos de repetição
+  
+  Enquanto algo... Processar (While): O bloco de operações será executado enquanto a condição 'algo' for verdadeira.
+  O teste da condição sempre realizado antes de qualquer operação.
+  Exemplo
+  inteiro: contador = 0
+  
+  While contador <= 10, processar
+    escrever 'O contador vale', contador
+    contador = contador + 1
+  Fim While
+  
+  Até que algo... Processar: O bloco de operações será executado até que a condição 'algo' seja verdadeira.
+  Exemplo
+  inteiro: numero = 0
+  
+  Até que numero = 10, processar
+    escrever 'o número agora vale', numero
+    numero = numero + 1
+  Fim.
+  
+  Processar, enquanto algo (Do while): Neste tipo de estrutura, primeiramente o bloco é executado, e somente depois é realizado o teste da condição.
+  Caso a condição seja verdadeira, o bloco é executado novamente e caso seja falso o bloco é encerrado.
+  Exemplo
+  inteiro: numero = 1
+  
+  Processar
+    escrever 'O número vale', numero
+    numero = numero + 1
+   Do while numero <= 10
+   Fim.
+   
+   Processar, até que algo: Neste tipo de estrutura, primeiramente o bloco é executado e somente depois é realizado o teste de condição.
+   O bloco é executado até que a condição se torne verdadeira.
+   Exemplo
+   inteiro: numero = 1
+   Processar
+    escrever 'Olá mundo'
+    numero = numero + 1
+   Até que numero == 10
+   Fim.
+   
+   Para (for): Primeiro é verificada se a condição é verdadeira, depois é executado o bloco de comandos. 
+   Serão novamente checados e executados enquanto a condição for verdadeira.
+   Exemplo
+   inteiro: contador = 0
+   For contador = 0, enquanto contador <= 10, processar
+    escrever 'Olá mundo'
+    contador = contador + 1
+   Fim.
+   
+   
+  
+  
+  
+  
+  
+  
 
 
 
